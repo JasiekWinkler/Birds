@@ -10,14 +10,14 @@ body{
 }
 
 .sky{
-    background: url(./images/fb-game-background.png);
+    background: url(./fb-game-background.png);
     width: 500px;
     height: 580px;
     position: absolute;
 }
 
 .ground{
-    background: url(./images/bottom-background.png);
+    background: url(./bottom-background.png);
     width: 500px;
     height: 150px;
     position: absolute;
@@ -52,21 +52,21 @@ body{
 }
 
 .bird{
-    background: url(./images/flappy-bird.png);
+    background: url(./flappy-bird.png);
     position: absolute;
     height: 45px;
     width: 60px;
 }
 
 .obstacle{
-    background: url(./images/flappybird-pipe.png);
+    background: url(./flappybird-pipe.png);
     width: 60px;
     height: 300px;
     position: absolute;
 }
 
 .topObstacle{
-    background: url(./images/flappybird-pipe.png);
+    background: url(./flappybird-pipe.png);
     transform: rotate(180deg);
     width: 60px;
     height: 300px;
